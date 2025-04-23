@@ -54,7 +54,7 @@
 * `git stash drop` 删除工作现场
 * `git stash pop` 恢复并删除工作现场
 * `git cherry-pick <commit_id>` 从其他分支中拣选提交，合并到当前分支
-* `git rebase <branch>` 以后再学
+* `git rebase <branch>` 把分出去的分支合并到当前分支，并且合并为一条
 ## 使用github
 1. 点"Fork"就在自己的账号下克隆了一个新仓库
 2. 从自己的账号下clone
